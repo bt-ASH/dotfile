@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =2
+let g:netrw_dirhist_2='/home/ash/.tmux/plugins'
+let g:netrw_dirhist_1='/home/ash/Info-chan'
+let g:netrw_dirhist_0='/home/ash/.config/hypr/scripts'
+let g:netrw_dirhist_9='/home/ash/Dotfiles/.config/swaync'
+let g:netrw_dirhist_8='/home/ash/Dotfiles/.config/rofi'
+let g:netrw_dirhist_7='/home/archjar/Scripts-chan/Packages'
+let g:netrw_dirhist_6='/home/archjar/Dotfiles/.config/viegphunt'
+let g:netrw_dirhist_5='/home/archjar/Scripts-chan/Packages'
+let g:netrw_dirhist_4='/home/archjar/.config/hypr/wallpaper/Videos'
+let g:netrw_dirhist_3='/home/archjar/.config/fastfetch'

@@ -1,0 +1,6 @@
+#!/bin/bash
+# 依赖：translate-shell，支持中文翻译（可修改 `:zh` 为目标语言）
+selected_text=$(echo "$QUTE_SELECTED_TEXT" | tr -d '\n')
+translated=$(trans -b :zh "$selected_text")
+# -b 表示简短翻译，`:zh` 是目标语言
+echo "message-info '$translated'" >> "$QUTE_FIFO"
