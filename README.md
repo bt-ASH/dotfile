@@ -53,8 +53,8 @@
 | `swaync`      | Notifications, volume flyout                | [swaync](https://github.com/ErikReider/SwayNotificationCenter) |
 | `waybar`      | Overview bar                                | [waybar](https://github.com/Alexays/Waybar)                    |
 | `swww`        | Wallpaper daemon                            | [swww](https://github.com/Horus645/swww)                       |
-| `rofi`        | Power menu, background selector, app drawer | [rofi](https://github.com/davatorium/rofi)                     |
-| `swayimg` | Background selector, status bar coloring    | [Swayimg](https://github.com/Swayimg/Swayimg)      |
+| `bemenu`        | app drawer | [bemenu](https://github.com/bemenu/bemenu)                     |
+| `swayimg` | Background selector    | [Swayimg](https://github.com/Swayimg/Swayimg)      |
 
 
 ## 🎨 UI & Icon Themes
