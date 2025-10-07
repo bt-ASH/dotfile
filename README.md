@@ -61,7 +61,7 @@
 
 | Name                       | Used For         | Link                                                                                                 |
 | -------------------------- | ---------------- | ---------------------------------------------------------------------------------------------------- |
-| `Yuurei-Angel`            | Cursor theme     | [Bibata Cursor](https://www.pling.com/p/2303824/)                                                    |
+| `Yuurei-Angel`            | Cursor theme     | [Bibata Cursor](https://github.com/bt-ASH/p/2303824/)                                                    |
 | `JetBrains Mono Nerd Font` | UI font          | [JetBrainsMono-NF](https://github.com/ryanoasis/nerd-fonts)                                          |
 | `Material Symbols Rounded` | Power menu font  | [Material Symbols Rounded](https://github.com/google/material-design-icons/tree/master/variablefont) |
 | `Catppuccin-Mocha-Icons`   | App drawer icons | [Catppuccin-Icons](https://github.com/Fausto-Korpsvart/Catppuccin-GTK-Theme)                         |
