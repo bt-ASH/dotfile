@@ -11,7 +11,7 @@
    <a href="#-ui--icon-themes">UI & Icons</a> • 
    <a href="#%EF%B8%8F-installation--setup">Installation</a> • 
    <a href="#%EF%B8%8F-keybinds">Keybinds</a> • 
-   <a href="#-optional-gtk-theme-font--icon-setup">GTK Setup</a> •
+   <a href="#-optional-gtk-theme-font--icon-setup">GTK Setup</a> 
 </p>
 
 ## 🚀 Features 
@@ -29,15 +29,15 @@
 | Background Selector                             |
 | ----------------------------------------------- |
 | ![Background Selector](./assets/bgselector.png) |
-|                                                 |
 
-| App Drawer                            |
+
+| Swaync                            |
 | ------------------------------------- |
-| ![App Drawer](./assets/appdrawer.png) |
+| ![App Drawer](./assets/swaync.png) |
 
-| Overview |
+| Cava |
 |---------|
-| ![Overview](./assets/overview.png) |
+| ![Overview](./assets/cava.png) |
 
 | Power Menu |
 |-----------|
@@ -54,15 +54,14 @@
 | `waybar`      | Overview bar                                | [waybar](https://github.com/Alexays/Waybar)                    |
 | `swww`        | Wallpaper daemon                            | [swww](https://github.com/Horus645/swww)                       |
 | `rofi`        | Power menu, background selector, app drawer | [rofi](https://github.com/davatorium/rofi)                     |
-| `ImageMagick` | Background selector, status bar coloring    | [ImageMagick](https://github.com/ImageMagick/ImageMagick)      |
-|               |                                             |                                                                |
+| `swayimg` | Background selector, status bar coloring    | [Swayimg](https://github.com/Swayimg/Swayimg)      |
 
 
 ## 🎨 UI & Icon Themes
 
 | Name                       | Used For         | Link                                                                                                 |
 | -------------------------- | ---------------- | ---------------------------------------------------------------------------------------------------- |
-| ` Yuurei-Angel`            | Cursor theme     | [Bibata Cursor](https://www.pling.com/p/2303824/)                                                    |
+| `Yuurei-Angel`            | Cursor theme     | [Bibata Cursor](https://www.pling.com/p/2303824/)                                                    |
 | `JetBrains Mono Nerd Font` | UI font          | [JetBrainsMono-NF](https://github.com/ryanoasis/nerd-fonts)                                          |
 | `Material Symbols Rounded` | Power menu font  | [Material Symbols Rounded](https://github.com/google/material-design-icons/tree/master/variablefont) |
 | `Catppuccin-Mocha-Icons`   | App drawer icons | [Catppuccin-Icons](https://github.com/Fausto-Korpsvart/Catppuccin-GTK-Theme)                         |
@@ -88,3 +87,4 @@
 | Background selector | `Mod + Shift + D` |
 | App drawer          | `Mod + D`         |
 | Terminal (kitty)    | `Mod + Q`         |
+
